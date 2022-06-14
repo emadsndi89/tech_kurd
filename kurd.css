@@ -1,0 +1,37 @@
+h1{
+				background-color:#d5ffbf;
+				align-items: center;
+				text-align: center;
+				border-bottom-right-radius: 50px;
+				border-bottom-left-radius: 50px;
+}
+
+body{
+				background-color:#34d0a5;
+}
+
+h2{
+margin-top:50px;
+				text-align: right;
+				background-color: #ffffff;
+				text-align: center;
+				margin-left: 270px;
+				border-radius: 35px 35px 35px 35px;
+}
+
+p{
+				text-align: right;
+}
+
+h3{
+				text-align: center;
+				margin-top: 65px;
+				background-color: #d5ffbf;
+				border-radius: 50px 50px 50px 50px ;
+				
+}
+
+img{
+				width: 400;
+				height: 400;
+}
